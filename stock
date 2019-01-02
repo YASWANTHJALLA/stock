@@ -1,0 +1,22 @@
+{
+	"stock": [
+    {
+		"ItemName":"Breezer",
+		"Noofcases":"100"
+	},{
+		"ItemName":"Beer",
+		"Noofcases":"150"
+	},{
+		"ItemName":"Vodka",
+		"Noofcases":"200"
+	},{
+		"ItemName":"Rum",
+		"Noofcases":"50"
+	},{
+		"ItemName":"Jin",
+		"Noofcases":"80"
+	},{
+		"ItemName":"Brandhy",
+		"Noofcases":"12"
+	}]
+  }
